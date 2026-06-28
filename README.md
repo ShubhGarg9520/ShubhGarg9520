@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Shubh Garg</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+<h3 align="center">🚀 A Passionate Full-Stack Developer from India</h3>
+<img align="right" alt="coding" width="600" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgarg9520&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgarg9520" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubh-garg-b8879a2ba](https://www.linkedin.com/in/shubh-garg-b8879a2ba)
+- 👨‍💻 All of my projects are available at: [https://www.linkedin.com/in/shubh-garg-b8879a2ba](https://www.linkedin.com/in/shubh-garg-b8879a2ba)
 
 - 💬 Ask me about **Full-Stack Development – building end-to-end web applications with ReactJS, NextJS, and NodeJS.**
 
-- 📫 How to reach me **shubhgarg06129@gmail.com**
+- 📫 How to reach me: **shubhgarg06129@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/170K2KBz1YKF45-FhZa66dt9vHnFLLihl/view?usp=drivesdk](https://drive.google.com/file/d/170K2KBz1YKF45-FhZa66dt9vHnFLLihl/view?usp=drivesdk)
 
