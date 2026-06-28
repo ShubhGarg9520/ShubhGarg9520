@@ -18,7 +18,7 @@
 <h1 align="center">🙋‍♂️About Me</h1>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh garg" height="70" width="80" /></a>
 <a href="https://instagram.com/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh garg" height="70" width="80" /></a>
 <a href="https://www.youtube.com/c/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubh garg" height="70" width="80" /></a>
