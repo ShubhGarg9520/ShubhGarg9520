@@ -1,20 +1,21 @@
-
+<img align="right" alt="coding" width="550" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 <h1 align="center">Hi 👋, I'm Shubh Garg</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer from India</h3>
-<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgarg9520&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgarg9520" /> </p>
+<h3 align="center">🚀Passionate Full-Stack Developer from India</h3>
 
-<h1 align="center">📫 How to reach me:</h1> **shubhgarg06129@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhgarg9520&label=Profile%20views&color=0e75b6&style=flat" alt="shubhgarg9520" /> </p>
+- 📫 How to reach me **shubhgarg06129@gmail.com*
 
 - 💬 Ask me about **C++, Python**
-- 
-  <h1 align="center">🙋‍♂️About Me</h1>
-  
-  <h3 align="center">🚀 Passionate Full-Stack Developer from India</h3>
 
-- 👨‍💻 **All of my projects are available at**: [https://www.linkedin.com/in/shubh-garg-b8879a2ba](https://www.linkedin.com/in/shubh-garg-b8879a2ba)
+- 👨‍💻 All of my projects are available at: [https://www.linkedin.com/in/shubh-garg-b8879a2ba](https://www.linkedin.com/in/shubh-garg-b8879a2ba)
 
 - ⚡ Fun fact **I am funny😂**
+
+
+
+
+  
+<h1 align="center">🙋‍♂️About Me</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
