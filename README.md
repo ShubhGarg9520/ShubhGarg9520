@@ -16,7 +16,12 @@
 
   
 <h1 align="center">🙋‍♂️About Me</h1>
-🚀B.Tech Graduate Computer Science Engineering at Dr. A.P.J. Abdul Kalam Technical University 🎓 AKTU '26 CSE, with hands-on experience in developing scalable web applications using React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs. Through internships at Full-stack Development Intern at Decode Labs, Web Development Intern at Codevirus Security Pvt. Ltd. and Web Development Intern at Labmentix Pvt. Ltd., I gained practical experience in full-stack development, API integration, debugging, and deploying real-world applications. My key project, Krisho, is an Al-powered Farm-to-Table Marketplace featuring Gemini Al, voice assistance, secure Razorpay payments, and real-time communication, and the project has also been published as a research paper in IJSET. I enjoy solving complex problems, learning new technologies, and building impactful software. I am currently seeking Software Development Engineer (SDE) or Full Stack Developer opportunities where I can contribute, grow, and create innovative technology solutions.
+🚀 B.Tech Graduate Computer Science Engineering at Dr. A.P.J. Abdul Kalam Technical University 🎓 AKTU '26 CSE, with hands-on experience in developing scalable web applications using React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs.
+
+ Through internships at Full-stack Development Intern at Decode Labs, Web Development Intern at Codevirus Security Pvt. Ltd. and Web Development Intern at Labmentix Pvt. Ltd., I gained practical experience in full-stack development, API integration, debugging, and deploying real-world applications.
+
+My key project, Krisho, is an Al-powered Farm-to-Table Marketplace featuring Gemini Al, voice assistance, secure Razorpay payments, and real-time communication, and the project has also been published as a research paper in IJSET. I enjoy solving complex problems, learning new technologies, and building impactful software. I am currently seeking Software Development Engineer (SDE) or Full Stack Developer opportunities where I can contribute, grow, and create innovative technology solutions.
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh garg" height="70" width="80" /></a>
