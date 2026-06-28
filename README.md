@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="700" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+8<img align="right" alt="coding" width="700" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 <h1 align="center">Hi 👋, I'm Shubh Garg</h1>
 <h3 align="center">🚀Passionate Full-Stack Developer from India</h3>
 
@@ -33,6 +33,4 @@ I am currently seeking Software Development Engineer (SDE) or Full Stack Develop
 <a href="https://instagram.com/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh garg" height="70" width="80" /></a>
 <a href="https://www.youtube.com/c/shubh garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubh garg" height="70" width="80" /></a>
 </p>
----
-
 ---
