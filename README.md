@@ -11,10 +11,8 @@
 
 - ⚡ Fun fact **I am funny😂**
 
+---
 
-
-
-  
 <h1 align="center">🙋‍♂️About Me</h1>
 🚀 B.Tech Graduate Computer Science Engineering at Dr. A.P.J. Abdul Kalam Technical University 🎓 AKTU '26 CSE, with hands-on experience in developing scalable web applications using React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs.
 
