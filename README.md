@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="800" height="200" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+<img align="right" alt="coding" width="800" height="500" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 <h1 align="center">Hi 👋, I'm Shubh Garg</h1>
 <h3 align="center">🚀Passionate Full-Stack Developer from India</h3>
 
