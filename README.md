@@ -42,29 +42,33 @@
 
  • During this internship work on assigned projects, complete milestones on
    time, and participate in mentor-led sessions.
+
  • A learning-focused internship designed to provide you with hand-on
    industry experience and professional growth.
 
-[2]Web Development Intern	 
+[2] Web Development Intern	 
 
-Jan 2026 – Apr 2026
+   Jan 2026 – Apr 2026
 
-Codevirus Security Pvt.Ltd. | A76 Chandganj Garden Kapoorthala Lucknow - 226024 - Remote
+   Codevirus Security Pvt.Ltd. | A76 Chandganj Garden Kapoorthala Lucknow -
+   226024 - Remote
 
-•	Built and deployed full-stack web applications, gaining hands-on,
-  end-to-end experience in real-world environments.
-•	Maintain project documentation and perform basic testing.
+ • Built and deployed full-stack web applications, gaining hands-on,
+   end-to-end experience in real-world environments.
 
-[3]Web Development Intern	 
+ • Maintain project documentation and perform basic testing.
+
+[3] Web Development Intern	 
                               
-Sep 2025 – Oct 2025
+   Sep 2025 – Oct 2025
 
-Labmentix Pvt.Ltd. | Bengaluru, Karnataka - 560029 - Remote
+   Labmentix Pvt.Ltd. | Bengaluru, Karnataka - 560029 - Remote
 
-•	Work on company-assigned web development project with involving
-  front-end/back-end tasks.
-•	Gained hands-on experience with modern web development tools and
-  frameworks.
+ • Work on company-assigned web development project with involving
+   front-end/back-end tasks.
+
+ • Gained hands-on experience with modern web development tools and
+   frameworks.
 
 ---
 
