@@ -34,31 +34,37 @@
 ---
 
 <h1 align="center">💼Experience</h1>
-Full-Stack Development Intern	 
+[1] Full-Stack Development Intern	 
 
-Jun 2026 – Present 
+    Jun 2026 – Present 
 
-Decode Labs | Pune, Maharashtra - 411045 - Remote 
+   Decode Labs | Pune, Maharashtra - 411045 - Remote 
 
-•	During this internship work on assigned projects, complete milestones on time, and participate in mentor-led sessions.
+ • During this internship work on assigned projects, complete milestones on
+   time, and participate in mentor-led sessions.
+ • A learning-focused internship designed to provide you with hand-on
+   industry experience and professional growth.
 
-•	A learning-focused internship designed to provide you with hand-on industry experience and professional growth.
-
-Web Development Intern	 
+[2]Web Development Intern	 
 
 Jan 2026 – Apr 2026
 
 Codevirus Security Pvt.Ltd. | A76 Chandganj Garden Kapoorthala Lucknow - 226024 - Remote
 
-•	Built and deployed full-stack web applications, gaining hands-on, end-to-end experience in real-world environments.
+•	Built and deployed full-stack web applications, gaining hands-on,
+  end-to-end experience in real-world environments.
 •	Maintain project documentation and perform basic testing.
 
-Web Development Intern	                               
+[3]Web Development Intern	 
+                              
 Sep 2025 – Oct 2025
+
 Labmentix Pvt.Ltd. | Bengaluru, Karnataka - 560029 - Remote
 
-•	Work on company-assigned web development project with involving front-end/back-end tasks.
-•	Gained hands-on experience with modern web development tools and frameworks.
+•	Work on company-assigned web development project with involving
+  front-end/back-end tasks.
+•	Gained hands-on experience with modern web development tools and
+  frameworks.
 
 ---
 
