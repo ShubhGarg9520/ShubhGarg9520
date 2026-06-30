@@ -34,10 +34,9 @@
 ---
 
 <h1 align="center">💼Experience</h1>
-<h3 align="left">Full-Stack Development Intern</h3>
-[1] Full-Stack Development Intern
+<h3 align="left">[1] Full-Stack Development Intern</h3>
 
-    |Jun 2026 – Present| 
+   |Jun 2026 – Present| 
 
    Decode Labs | Pune, Maharashtra - 411045 - Remote 
 
@@ -47,7 +46,7 @@
  • A learning-focused internship designed to provide you with hand-on
    industry experience and professional growth.
 
-[2] Web Development Intern	 
+<h3 align="left">[2] Web Development Intern</h3>
 
    |Jan 2026 – Apr 2026|
 
@@ -56,9 +55,10 @@
 
  • Built and deployed full-stack web applications, gaining hands-on,
    end-to-end experience in real-world environments.
+
  • Maintain project documentation and perform basic testing.
 
-[3] Web Development Intern	 
+<h3 align="left">[3] Web Development Intern</h3> 
                               
    |Sep 2025 – Oct 2025|
 
@@ -66,6 +66,7 @@
 
  • Work on company-assigned web development project with involving
    front-end/back-end tasks.
+
  • Gained hands-on experience with modern web development tools and
    frameworks.
 
