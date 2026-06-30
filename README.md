@@ -34,7 +34,8 @@
 ---
 
 <h1 align="center">💼Experience</h1>
-[1]**Full-Stack Development Intern**	 
+<h3 align="left">Full-Stack Development Intern</h3>
+[1] Full-Stack Development Intern
 
     |Jun 2026 – Present| 
 
@@ -42,6 +43,7 @@
 
  • During this internship work on assigned projects, complete milestones on
    time, and participate in mentor-led sessions.
+
  • A learning-focused internship designed to provide you with hand-on
    industry experience and professional growth.
 
