@@ -18,9 +18,7 @@
 🚀 Aspiring full stack developer with passion for full stack development, debugging and API development with hands-on experience in developing scalable web applications using React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs.
 I am currently seeking Software Development Engineer (SDE) or Full Stack Developer opportunities where I can contribute, grow, and create innovative technology solutions.
 
-
-
-• 💡Looking to collaborate on open-source projects involving AI integration and web technologies.
+• 💡Looking to collaborate on open-source projects involving AI integration        and web technologies.
 
 • 🛠️Learning advanced web development concepts and frameworks.
 
