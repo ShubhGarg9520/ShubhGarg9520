@@ -98,6 +98,6 @@
 
 <p>
 
-Thank you for visiting my profile! Let's connect and build something amazing together!</p>
+✨️Thank you for visiting my profile! Let's connect🤝 and build something amazing together!✨️</p>
 
 </div>
