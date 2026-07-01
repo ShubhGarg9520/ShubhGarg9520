@@ -15,7 +15,7 @@
 ---
 
 <h1 align="center">🙋‍♂️About Me</h1>
-🚀 Aspiring full stack developer with passion for full stack development, debugging and API development with hands-on experience in developing scalable web applications using React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs.
+🚀 Aspiring full stack developer with passion for full stack development, debugging and API development with hands-on experience in developing scalable web applications using <h3 align="center">React.js, Node.js, Express.js, JavaScript, Firebase, MongoDB, and REST APIs.</h3>
 
 🏆 I am currently seeking Software Development Engineer(SDE) or Full Stack Developer opportunities where I can contribute, grow, and create innovative technology solutions.
 
