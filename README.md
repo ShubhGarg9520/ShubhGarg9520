@@ -94,3 +94,10 @@
 <img align="center" alt="Coding" width="1100" height="330" src="https://github.com/czl9707/gh-space-shooter/blob/main/example.gif">
 
 ---
+<div align="center">
+
+<p>
+
+Thank you for visiting my profile! Let's connect and build something amazing together!</p>
+
+</div>
